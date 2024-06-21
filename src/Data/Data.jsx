@@ -1,0 +1,122 @@
+export const data = [
+    {
+        jobId: 1,
+        companyName: 'Amazon',
+        role: 'Software Engineer',
+        ctc: '₹30 LPA',
+        applyBefore: '15th August 2021',
+        location: 'Bangalore',
+        info1: '5-7 years of experience',
+        info2: 'B.Tech in Computer Science',
+        info3: 'Strong problem-solving skills',
+        logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1024px-Amazon_logo.svg.png'
+    },
+    {
+        jobId: 2,
+        companyName: 'Google',
+        role: 'Product Manager',
+        ctc: '₹35 LPA',
+        applyBefore: '20th August 2021',
+        location: 'Bangalore',
+        info1: '5-7 years of experience',
+        info2: 'B.Tech in Computer Science',
+        info3: 'Strong problem-solving skills',
+        logo: 'https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg'
+    },
+    {
+        jobId: 3,
+        companyName: 'Microsoft',
+        role: 'Data Analyst',
+        ctc: '₹25 LPA',
+        applyBefore: '10th August 2021',
+        location: 'Bangalore',
+        info1: '5-7 years of experience',
+        info2: 'B.Tech in Computer Science',
+        info3: 'Strong problem-solving skills',
+        logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/1200px-Microsoft_logo_%282012%29.svg.png'
+    },
+    {
+        jobId: 4,
+        companyName: 'Facebook',
+        role: 'Software Developer',
+        ctc: '₹28 LPA',
+        applyBefore: '25th August 2021',
+        location: 'Bangalore',
+        info1: '5-7 years of experience',
+        info2: 'B.Tech in Computer Science',
+        info3: 'Strong problem-solving skills',
+        logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1024px-Facebook_f_logo_%282019%29.svg.png'
+    },
+    {
+        jobId: 5,
+        companyName: 'Netflix',
+        role: 'UI/UX Designer',
+        ctc: '₹32 LPA',
+        applyBefore: '5th August 2021',
+        location: 'Bangalore',
+        info1: '5-7 years of experience',
+        info2: 'B.Tech in Computer Science',
+        info3: 'Strong problem-solving skills',
+        logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/1200px-Netflix_2015_logo.svg.png'
+    },
+    {
+        jobId: 6,
+        companyName: 'Apple',
+        role: 'Software Engineer',
+        ctc: '₹30 LPA',
+        applyBefore: '15th August 2021',
+        location: 'Bangalore',
+        info1: '5-7 years of experience',
+        info2: 'B.Tech in Computer Science',
+        info3: 'Strong problem-solving skills',
+        logo: 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg'
+    },
+    {
+        jobId: 7,
+        companyName: 'Tesla',
+        role: 'Product Manager',
+        ctc: '₹35 LPA',
+        applyBefore: '20th August 2021',
+        location: 'Bangalore',
+        info1: '5-7 years of experience',
+        info2: 'B.Tech in Computer Science',
+        info3: 'Strong problem-solving skills',
+        logo: 'https://upload.wikimedia.org/wikipedia/commons/e/e8/Tesla_logo.png'
+    },
+    {
+        jobId: 8,
+        companyName: 'Twitter',
+        role: 'Data Analyst',
+        ctc: '₹25 LPA',
+        applyBefore: '10th August 2021',
+        location: 'Bangalore',
+        info1: '5-7 years of experience',
+        info2: 'B.Tech in Computer Science',
+        info3: 'Strong problem-solving skills',
+        logo: 'https://en.wikipedia.org/wiki/File:Twitter_logo.svg#/media/File:Logo_of_Twitter.svg'
+    },
+    {
+        jobId: 9,
+        companyName: 'LinkedIn',
+        role: 'Software Developer',
+        ctc: '₹28 LPA',
+        applyBefore: '25th August 2021',
+        location: 'Bangalore',
+        info1: '5-7 years of experience',
+        info2: 'B.Tech in Computer Science',
+        info3: 'Strong problem-solving skills',
+        logo: 'https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png'
+    },
+    {
+        jobId: 10,
+        companyName: 'Pinterest',
+        role: 'UI/UX Designer',
+        ctc: '₹32 LPA',
+        applyBefore: '5th August 2021',
+        location: 'Bangalore',
+        info1: '5-7 years of experience',
+        info2: 'B.Tech in Computer Science',
+        info3: 'Strong problem-solving skills',
+        logo: 'https://upload.wikimedia.org/wikipedia/commons/3/35/Pinterest_Logo.svg'
+    }
+];
